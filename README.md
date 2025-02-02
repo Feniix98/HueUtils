@@ -13,3 +13,9 @@
 # 📜 Dépendances
 
 - *Ce plugin ne possède aucune dépendance*
+#  :label: Téléchargement
+
+- *[HueUtils](https://github.com/Feniix98/HueUtils/releases/latest)*
+
+# :books: ReadMe
+- *[ReadMe](https://github.com/Feniix98/HueUtils/wiki/H%C3%A9ritage#hueutils)*
